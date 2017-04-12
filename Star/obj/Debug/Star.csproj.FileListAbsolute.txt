@@ -1,0 +1,14 @@
+C:\Users\Phelix\Desktop\Works\Star\Star\bin\Debug\Star.exe.config
+C:\Users\Phelix\Desktop\Works\Star\Star\bin\Debug\Star.exe
+C:\Users\Phelix\Desktop\Works\Star\Star\bin\Debug\Star.pdb
+C:\Users\Phelix\Desktop\Works\Star\Star\obj\Debug\Star.csprojResolveAssemblyReference.cache
+C:\Users\Phelix\Desktop\Works\Star\Star\obj\Debug\MainWindow.baml
+C:\Users\Phelix\Desktop\Works\Star\Star\obj\Debug\MainWindow.g.cs
+C:\Users\Phelix\Desktop\Works\Star\Star\obj\Debug\App.g.cs
+C:\Users\Phelix\Desktop\Works\Star\Star\obj\Debug\Star_MarkupCompile.cache
+C:\Users\Phelix\Desktop\Works\Star\Star\obj\Debug\Star.g.resources
+C:\Users\Phelix\Desktop\Works\Star\Star\obj\Debug\Star.Properties.Resources.resources
+C:\Users\Phelix\Desktop\Works\Star\Star\obj\Debug\Star.csproj.GenerateResource.Cache
+C:\Users\Phelix\Desktop\Works\Star\Star\obj\Debug\Star.exe
+C:\Users\Phelix\Desktop\Works\Star\Star\obj\Debug\Star.pdb
+C:\Users\Phelix\Desktop\Works\Star\Star\obj\Debug\Star_MarkupCompile.lref
